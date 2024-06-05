@@ -1,16 +1,16 @@
-<h2>Stock Market Analysis with yfinance</h2>
+<h2>Stock Market Analysis</h2>
 This project analyzes the stock market data of Apple,Microsoft,3M,Tesla<br>
 <h3><b>Getting Started</b></h3>
 This Project requires the following libraries:
-*yfinance
-*Pandas(for data manipulation and analysis)
-*Matplotlib (for visualization)
+<ul>yfinance</ul>
+<ul>Pandas(for data manipulation and analysis)</ul>
+<ul>Matplotlib (for visualization)</ul>
 
-You can install them using pip:
+**You can install them using pip:
 '''bash
-pip install yfinance pandas matplotlib
+pip install yfinance pandas matplotlib***
 
-**Data Acquisition and Analysis**
+<h3>Data Acquisition and Analysis</h3>
 yfinance function was used to download historical and current price data for the specified companies.
 The following type of analysis was performed
 <ul>i.Price comparison</ul>
@@ -18,5 +18,4 @@ The following type of analysis was performed
 <ul>iii.Cumulative returns</ul>
 <ul>iv.Volatility</ul>
 <ul>v.Return distribution</ul>
-Also created visualizations showing Visual for comparison of multiple assets using subplots, 
-Created Visual comparison of multiple assets for Return distributions
+Also created visualizations showing Visual for comparison of multiple assets using subplots and Created Visual comparison of multiple assets for Return distributions
