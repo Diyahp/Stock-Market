@@ -9,12 +9,11 @@ This project looks into the dynamic world of the stock market, focusing on four 
 <li>Return Distribution: Finally, I analyzed the distribution of returns for each option. This could involve creating a histogram or using statistical measures to understand how frequently certain returns occurred.</li>
 
 <h3>Data Acquisition</h3>
-<h3><b>Getting Started</b></h3>
-yfinance function was used to download historical and current price data for the specified companies.
+yfinance function was used to download historical and current price data for the specified companies.<br>
 This Project requires the following libraries:
-<ul>i.yfinance</ul>
-<ul>ii.Pandas(for data manipulation and analysis)</ul>
-<ul>iii.Matplotlib (for visualization)</ul>
+<li>yfinance</li>
+<li>ii.Pandas(for data manipulation and analysis)</li>
+<li>iii.Matplotlib (for visualization)</li>
 
 **You can install them using pip:
 pip install yfinance pandas matplotlib***
