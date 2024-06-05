@@ -6,7 +6,8 @@ This project looks into the dynamic world of the stock market, focusing on four 
 <li>Return Calculation: Next, I calculated the returns for each option over the chosen period. This would involve using formulas to determine the percentage gain or loss on each investment.</li>
 <li>Cumulative Returns: To understand the total growth over time, I calculated the cumulative returns for each option.</li>
 <li>Volatility: I then assessed the volatility of each option. Volatility is a measure of price fluctuations, and a high volatility indicates a riskier investment.</li>
-<li>Return Distribution: Finally, I analyzed the distribution of returns for each option. This could involve creating a histogram or using statistical measures to understand how frequently certain returns occurred.</li>
+<li>Return Distribution: I analyzed the distribution of returns for each option. This could involve creating a histogram or using statistical measures to understand how frequently certain returns occurred.</li>
+<li>logarithmic returns or log returns) : Finally i analzed log returns which are a common way to measure the percentage change of an asset's price over time. It is calculated by taking the natural logarithm of the ratio between the current price and the previous price</li>
 
 <h3>Data Acquisition</h3>
 yfinance function was used to download historical and current price data for the specified companies.<br>
