@@ -7,7 +7,6 @@ This Project requires the following libraries:
 <ul>Matplotlib (for visualization)</ul>
 
 **You can install them using pip:
-'''bash
 pip install yfinance pandas matplotlib***
 
 <h3>Data Acquisition and Analysis</h3>
@@ -18,6 +17,7 @@ The following type of analysis was performed
 <ul>iii.Cumulative returns</ul>
 <ul>iv.Volatility</ul>
 <ul>v.Return distribution</ul>
-Also created visualizations showing Visual for comparison of multiple assets using subplots and Created Visual comparison of multiple assets for Return distributions
-<h3>Note</h3>:Only Ajdusted close column was used for analysis 
-The adjusted closing price is a stock's closing price that takes into account corporate actions such as stock splits and dividend distributions.It essentially reflects the true price of the stock after these events have been considered.
+Also created visualizations showing Visual for comparison of multiple assets using subplots and Created Visual comparison of multiple assets for Return distributions<br>
+
+**Note:Only Ajdusted close column was used for analysis;
+The adjusted closing price is a stock's closing price that takes into account corporate actions such as stock splits and dividend distributions.It essentially reflects the true price of the stock after these events have been considered.**
