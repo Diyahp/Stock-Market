@@ -2,9 +2,9 @@
 This project analyzes the stock market data of Apple,Microsoft,3M,Tesla<br>
 <h3><b>Getting Started</b></h3>
 This Project requires the following libraries:
-<ul>yfinance</ul>
-<ul>Pandas(for data manipulation and analysis)</ul>
-<ul>Matplotlib (for visualization)</ul>
+<ul>i.yfinance</ul>
+<ul>ii.Pandas(for data manipulation and analysis)</ul>
+<ul>iii.Matplotlib (for visualization)</ul>
 
 **You can install them using pip:
 pip install yfinance pandas matplotlib***
