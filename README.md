@@ -11,8 +11,7 @@ pip install yfinance pandas matplotlib***
 
 <h3>Data Acquisition and Analysis</h3>
 yfinance function was used to download historical and current price data for the specified companies.
-
-**Our analysis will encompass various aspects, including:**
+<h3>Our analysis will encompass various aspects, including:</h3>
 <ul>i.Price comparison</ul>
 <ul>ii.Return calculation</ul>
 <ul>iii.Cumulative returns</ul>
