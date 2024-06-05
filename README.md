@@ -1,5 +1,5 @@
 <h2>Stock Market Analysis</h2>
-This project analyzes the stock market data of Apple,Microsoft,3M,Tesla<br>
+This project looks into the dynamic world of the stock market, focusing on four prominent players: Apple (AAPL), Microsoft (MSFT), 3M (MMM), and Tesla (TSLA). By dissecting their recent performance, we aim to uncover valuable insights and potential investment opportunities.<br>
 <h3><b>Getting Started</b></h3>
 This Project requires the following libraries:
 <ul>i.yfinance</ul>
@@ -11,7 +11,8 @@ pip install yfinance pandas matplotlib***
 
 <h3>Data Acquisition and Analysis</h3>
 yfinance function was used to download historical and current price data for the specified companies.
-The following type of analysis was performed 
+
+**Our analysis will encompass various aspects, including:**
 <ul>i.Price comparison</ul>
 <ul>ii.Return calculation</ul>
 <ul>iii.Cumulative returns</ul>
