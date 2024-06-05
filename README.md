@@ -1,6 +1,6 @@
-**Stock Market Analysis with yfinance**<br>
-This project analyzes the stock market data of Apple,Microsoft,3M,Tesla using the yfinance library
-**Getting Started**
+<h2>Stock Market Analysis with yfinance</h2>
+This project analyzes the stock market data of Apple,Microsoft,3M,Tesla<br>
+<h3><b>Getting Started</b></h3>
 This Project requires the following libraries:
 *yfinance
 *Pandas(for data manipulation and analysis)
