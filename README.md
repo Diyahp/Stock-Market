@@ -12,8 +12,8 @@ This project looks into the dynamic world of the stock market, focusing on four 
 yfinance function was used to download historical and current price data for the specified companies.<br>
 This Project requires the following libraries:
 <li>yfinance</li>
-<li>.Pandas(for data manipulation and analysis)</li>
-<li>.Matplotlib (for visualization)</li>
+<li>Pandas(for data manipulation and analysis)</li>
+<li>Matplotlib (for visualization)</li>
 
 **You can install them using pip:
 pip install yfinance pandas matplotlib***
