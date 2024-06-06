@@ -1,7 +1,7 @@
 <h2><B></B>Stock Market Analysis</h2></B>
 This project looks into the dynamic world of the stock market, focusing on four prominent players: Apple (AAPL), Microsoft (MSFT), 3M (MMM), and Tesla (TSLA). By dissecting their recent performance, we aim to uncover valuable insights and potential investment opportunities.<br>
 
-<h2>Our analysis will encompass various aspects, including:</h2>
+<h3>This analysis will encompass various aspects, including:</h3>
 <li>Price Comparison:I began by comparing the prices of the Stock across a defined timeframe. This could involve looking at historical data and comparing current price</li>
 <li>Return Calculation: Next, I calculated the returns for each option over the chosen period. This would involve using formulas to determine the percentage gain or loss on each investment.</li>
 <li>Cumulative Returns: To understand the total growth over time, I calculated the cumulative returns for each option.</li>
